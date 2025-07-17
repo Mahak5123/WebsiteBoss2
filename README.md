@@ -2,11 +2,6 @@
 
 **A powerful React-based website generator that empowers businesses to create stunning, customizable websites in minutes.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen)](https://website-boss2-ae8y.vercel.app/)
-[![GitHub Stars](https://img.shields.io/github/stars/Mahak5123/WebsiteBoss2?style=social)](https://github.com/Mahak5123/WebsiteBoss2)
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## 🚀 Live Demo
 
 Experience WebsiteBoss2 in action: **[https://website-boss2-ae8y.vercel.app/](https://website-boss2-ae8y.vercel.app/)**
@@ -156,6 +151,6 @@ If you find WebsiteBoss2 helpful, please consider:
 
 ---
 
-**Built with ❤️ by the WebsiteBoss2 team**
+**Built with ❤️ by the Mahak Salecha**
 
-[![GitHub followers](https://img.shields.io/github/followers/Mahak5123?style=social)](https://github.com/Mahak5123)
+
