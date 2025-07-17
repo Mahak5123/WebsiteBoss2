@@ -133,13 +133,6 @@ This project is licensed under the **MIT License**.
 - Vercel for providing seamless deployment solutions
 - All contributors who have helped improve this project
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/Mahak5123/WebsiteBoss2/issues)
-- **Discussions**: Join the conversation in our [GitHub Discussions](https://github.com/Mahak5123/WebsiteBoss2/discussions)
-
 ## 🌟 Show Your Support
 
 If you find WebsiteBoss2 helpful, please consider:
